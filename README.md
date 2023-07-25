@@ -6,6 +6,8 @@ I am Henon Mengistu LAMBORO.
 
 - 🔭 I’m working on Semantic web technologies and interoperability enhancement using TLO and ML.
 
+Skills: Java, Python, RDF, OWL, SPARQL, SWRL
+
 -------------
 
 Bonjour 👋
