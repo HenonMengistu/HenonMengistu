@@ -2,7 +2,7 @@
 
 I am Henon Mengistu LAMBORO. 
 
-- 🌱 I’m currently pursuing a Master 2 in Computer Science(PDS) at Institut Polytechnique de Paris.
+- 🌱 I’m currently pursuing a Ph.D. research at Institut Polytechnique de Paris and Trialog under a CIFRE program.
 
 - 🔭 I’m working on Semantic web technologies and interoperability enhancement using TLO and ML.
 
@@ -14,7 +14,7 @@ Bonjour 👋
 
 Je suis Henon Mengistu LAMBORO.
 
-🌱 Je poursuis un Master 2 en informatique à l'Institut Polytechnique de Paris.
+🌱 Je poursuis actuellement un doctorat de recherche à l'Institut Polytechnique de Paris et à Trialog dans le cadre d'un programme CIFRE.
 
 🔭 Je travaille sur les technologies du web sémantique et l'amélioration de l'interopérabilité en utilisant TLO et ML.
 <!--
